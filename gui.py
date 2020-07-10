@@ -6,7 +6,7 @@ from PIL import ImageTk, Image
 import numpy
 #load the trained model to classify sign
 from tensorflow.keras.models import load_model
-model = load_model('model.h5')
+model = load_model('new_model.h5')
 
 inverse_map={0:'manipuri', 1:'bharatanatyam', 2:'odissi' ,3:'kathakali',4: 'kathak', 5:'sattriya',
  6:'kuchipudi', 7:'mohiniyattam'}
