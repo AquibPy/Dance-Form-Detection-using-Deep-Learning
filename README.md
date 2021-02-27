@@ -17,7 +17,12 @@ Download The Dataset from [Here](https://www.hackerearth.com/challenges/competit
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [TensorFlow](https://www.tensorflow.org)
+- [PyTorch](https://pytorch.org/)
 
+
+# Implementation
+The problem Statement is solved with both keras and PyTorch.
+In PyTorch, I build Class for Custom dataset and uses Densenet121 model for training.
 
 ## Author
 
